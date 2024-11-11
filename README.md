@@ -227,16 +227,16 @@ plt.show()
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-![output](<Screenshot 2024-10-12 160927.png>)
+![alt text](<Screenshot 2024-11-11 174028.png>)
 
 ### Classification Report
-![output](<Screenshot 2024-10-12 160942.png>)
+![alt text](<Screenshot 2024-11-11 174059.png>)
 
 ### Confusion Matrix
-![output](<Screenshot 2024-10-12 160950.png>)
+![alt text](<Screenshot 2024-11-11 174108.png>)
 
 ### New Sample Data Prediction
-![output](<Screenshot 2024-10-12 170432.png>)
+![alt text](<Screenshot 2024-11-11 174133.png>)
 
 ## RESULT
 Thus, a deep neural network for Malaria infected cell recognition is developed and the performance is analyzed.
