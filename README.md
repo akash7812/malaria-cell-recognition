@@ -10,7 +10,7 @@ It involves achieving high accuracy in classifying malaria-infected cells versus
 ![output](malaria.png)
 
 ## Neural Network Model
-![output](nn-model.png)
+![alt text](nn-model..png)
 
 Include the neural network model diagram.
 
